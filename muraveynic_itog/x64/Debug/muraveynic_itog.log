@@ -1,0 +1,8 @@
+﻿  muraveynic_itog.cpp
+d:\visual studio\muraveynic_itog\muraveynic_itog\ant.h(38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\visual studio\muraveynic_itog\muraveynic_itog\ant.h(207): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\visual studio\muraveynic_itog\muraveynic_itog\stick.h(22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\visual studio\muraveynic_itog\muraveynic_itog\muraveynic_itog.cpp(40): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\visual studio\muraveynic_itog\muraveynic_itog\muraveynic_itog.cpp(125): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\visual studio\muraveynic_itog\muraveynic_itog\ant.h(178): warning C4715: Ant::changeProf: значение возвращается не при всех путях выполнения
+  muraveynic_itog.vcxproj -> D:\Visual Studio\muraveynic_itog\x64\Debug\muraveynic_itog.exe

@@ -1,0 +1,4 @@
+﻿  Sber2.cpp
+d:\visual studio\sber2\sber2\sber2.cpp(87): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\sber2\sber2\sber2.cpp(90): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Sber2.vcxproj -> D:\Visual Studio\Sber2\Debug\Sber2.exe
